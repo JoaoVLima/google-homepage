@@ -1216,62 +1216,6 @@ g-img {
     width: inherit
 }
 
-.QCzoEc {
-    margin-top: 3px;
-    color: #9aa0a6
-}
-
-.gLFyf {
-    line-height: 34px;
-    font-size: 16px;
-    flex: 100%
-}
-
-textarea.gLFyf {
-    font-family: arial, sans-serif;
-    line-height: 22px;
-    margin-bottom: 8px;
-    overflow-x: hidden
-}
-
-.gLFyf {
-    resize: none;
-    background-color: transparent;
-    border: none;
-    margin: 0;
-    padding: 0;
-    color: #e8eaed;
-    word-wrap: break-word;
-    outline: 0;
-    display: flex;
-    -webkit-tap-highlight-color: transparent
-}
-
-.a4bIc {
-    display: flex;
-    flex-wrap: wrap;
-    flex: 1;
-    margin-top: 6px
-}
-
-.dRYYxd {
-    display: flex;
-    flex: 0 0 auto;
-    margin-top: -5px;
-    align-items: stretch;
-    flex-direction: row;
-    height: 44px
-}
-
-.BKRPef {
-    background: 0 0;
-    align-items: center;
-    flex: 1 0 auto;
-    flex-direction: row;
-    display: flex;
-    cursor: pointer
-}
-
 .vOY7J {
     background: 0 0;
     border: 0;
@@ -1305,42 +1249,6 @@ textarea.gLFyf {
     display: none
 }
 
-.Umvnrc {
-    flex: 1 0 auto;
-    display: flex;
-    cursor: pointer;
-    align-items: center;
-    border: 0;
-    background: 0 0;
-    outline: 0;
-    padding: 0 8px;
-    width: 24px;
-    line-height: 44px
-}
-
-.ly0Ckb {
-    background: url(//www.gstatic.com/inputtools/images/tia.png) no-repeat center;
-    height: 24px;
-    width: 24px;
-    vertical-align: middle
-}
-
-.yAnw3c {
-    visibility: hidden
-}
-
-.XDyW0e {
-    flex: 1 0 auto;
-    display: flex;
-    cursor: pointer;
-    align-items: center;
-    border: 0;
-    background: 0 0;
-    outline: 0;
-    padding: 0 8px;
-    width: 24px;
-    line-height: 44px
-}
 
 .goxjub {
     height: 24px;
